@@ -9,4 +9,4 @@ Placa de expansão para a Franzininho Wifi com funcionalidade de MakeyMakey
 - LDR
 - Pinos de expansão (grove I2C ou simlar)
 - Buzzer Passivo
-- 
+- 2  push button (12 x 12)
