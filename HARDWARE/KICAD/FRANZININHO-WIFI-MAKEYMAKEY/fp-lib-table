@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "LIB")(type "KiCad")(uri "C:/Users/Andre/FRANZININHO/franzininho-wifi-makeymakey/HARDWARE/KICAD/LIB")(options "")(descr ""))
+  (lib (name "FRANZININHO_WIFI")(type "KiCad")(uri "C:/Users/Andre/FRANZININHO/franzininho-wifi-makeymakey/HARDWARE/KICAD/LIB/FRANZININHO_WIFI.pretty")(options "")(descr ""))
 )
