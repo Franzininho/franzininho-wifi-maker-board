@@ -27,14 +27,14 @@ Placa de expansão para a Franzininho Wifi com funcionalidade de MakeyMakey
 | 8    | I2C_1_SDA           |
 | 9    | I2C_1_SCL           |
 | 10   | LDR                 |
-| 11   | CPLEX0              |
-| 12   | CPLEX1              |
-| 13   | CPLEX2              |
-| 14   | CPLEX3              |
-| 15   | CPLEX4              |
-| 16   | CPLEX5              |
-| 17   | Buzzer              |
-| 18   |                     |
+| 11   | Touch8              |
+| 12   | CPLEX0              |
+| 13   | CPLEX1              |
+| 14   | CPLEX2              |
+| 15   | CPLEX3              |
+| 16   | CPLEX4              |
+| 17   | CPLEX5              |
+| 18   | Buzzer              |
 | 21   | LED_ONBOARD_AZUL    |
 | 26   |                     |
 | 33   | LED_ONBOARD_AMARELO |
