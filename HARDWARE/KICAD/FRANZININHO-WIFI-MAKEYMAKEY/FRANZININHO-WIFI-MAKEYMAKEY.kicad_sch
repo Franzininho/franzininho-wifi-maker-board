@@ -6,7 +6,7 @@
 
   (title_block
     (title "MAKEYMAKEY SHIELD")
-    (date "2022-08-20")
+    (date "2023-07-09")
     (rev "00")
     (company "FRANZININHO WIFI")
     (comment 1 "Drawn by: Eng. André A. M. Araújo")
@@ -1519,6 +1519,7 @@
       )
     )
   )
+
 
   (junction (at 219.71 113.03) (diameter 0) (color 0 0 0 0)
     (uuid 005071c4-8bc6-49f7-ba99-efdd1ab59697)
@@ -3220,10 +3221,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0bd2cbcb-bd63-403b-9b3c-7a98b36ac232)
   )
-  (text "CONFIRMAR SEQUÊNCIA\nDOS PINOS RGBK" (at 234.95 73.66 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 96771fa6-6615-40b9-9c5b-e2ab949e2953)
-  )
 
   (global_label "SCL1" (shape output) (at 114.3 64.77 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
@@ -4625,10 +4622,10 @@
     (property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" (id 3) (at 29.21 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 38cfe2ae-a972-42ad-83f3-a55d2b904372))
-    (pin "1" (uuid 38cfe2ae-a972-42ad-83f3-a55d2b904372))
-    (pin "2" (uuid f8aaf189-b37c-4cf9-bd35-e3c42505fc3c))
-    (pin "2" (uuid f8aaf189-b37c-4cf9-bd35-e3c42505fc3c))
+    (pin "1" (uuid 38cfe2ae-a972-42ad-83f3-a55d2b904374))
+    (pin "1" (uuid 38cfe2ae-a972-42ad-83f3-a55d2b904374))
+    (pin "2" (uuid f8aaf189-b37c-4cf9-bd35-e3c42505fc3e))
+    (pin "2" (uuid f8aaf189-b37c-4cf9-bd35-e3c42505fc3e))
   )
 
   (symbol (lib_id "Transistor_FET:2N7002") (at 228.6 39.37 0) (unit 1)
@@ -5446,10 +5443,10 @@
     (property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" (id 3) (at 13.97 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 15d275f0-0e31-460f-b6fe-a34ea12dd12c))
-    (pin "1" (uuid 15d275f0-0e31-460f-b6fe-a34ea12dd12c))
-    (pin "2" (uuid 25d361b8-2f75-42e8-ac85-9fdb0a217c59))
-    (pin "2" (uuid 25d361b8-2f75-42e8-ac85-9fdb0a217c59))
+    (pin "1" (uuid 15d275f0-0e31-460f-b6fe-a34ea12dd12e))
+    (pin "1" (uuid 15d275f0-0e31-460f-b6fe-a34ea12dd12e))
+    (pin "2" (uuid 25d361b8-2f75-42e8-ac85-9fdb0a217c5b))
+    (pin "2" (uuid 25d361b8-2f75-42e8-ac85-9fdb0a217c5b))
   )
 
   (symbol (lib_id "Device:R_Small_US") (at 21.59 26.67 180) (unit 1)
