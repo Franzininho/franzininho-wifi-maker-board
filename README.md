@@ -1,53 +1,20 @@
-# Franzininho wifi Makeymakey Expansion Board
+# Franzininho WiFi Maker Board
 
-Placa de expansão para a Franzininho Wifi com funcionalidade de MakeyMakey
+Placa de expansão para a Franzininho Wifi com funcionalidade para ajudar iniciantes e professores nos primeiros passos com programação física.
 
 ## Recursos
 
-- Entradas para garras jacaré (touch capacitivo ou resistivo)
-- Display Matricial 5 x 5 (CHARLIEPLEXING)
+- 8 Entradas para garras jacaré (touch capacitivo ou resistivo)
+- Display Matricial 6 x 5 (CHARLIEPLEXING)
 - LDR
-- Pinos de expansão (grove I2C ou simlar)
+- 4 Conectores de expansão I2C tipo grove 
 - Buzzer Passivo
 - 2  push button (12 x 12)
+- Conector para placa Franzininho WiFi
+- LED RGB
+- Pinos extras para expansão
 
 
-## Mapeamento de pinos
+![Franzininho WiFi Maker Board](https://github.com/Franzininho/franzininho-wifi-maker-board/blob/main/HARDWARE/KICAD/FRANZININHO-WIFI-MAKEYMAKEY/FRANZININHO-WIFI-Maker%20Shieldpng.png)
 
-| Pino | Função              |
-|------|---------------------|
-| 0    |                     |
-| 1    | Touch1              |
-| 2    | Touch2              |
-| 3    | Touch3              |
-| 4    | Touch4              |
-| 5    | Touch5              |
-| 6    | Touch6              |
-| 7    | Touch7              |
-| 8    | I2C_1_SDA           |
-| 9    | I2C_1_SCL           |
-| 10   | LDR                 |
-| 11   | Touch8              |
-| 12   | CPLEX0              |
-| 13   | CPLEX1              |
-| 14   | CPLEX2              |
-| 15   | CPLEX3              |
-| 16   | CPLEX4              |
-| 17   | CPLEX5              |
-| 18   | Buzzer              |
-| 21   | LED_ONBOARD_AZUL    |
-| 26   |                     |
-| 33   | LED_ONBOARD_AMARELO |
-| 34   | SW1                 |
-| 35   | SW2                 |
-| 36   | I2C_2_SDA           |
-| 37   | I2C_2_SCL           |
-| 38   |                     |
-| 39   |                     |
-| 40   | LED_R               |
-| 41   | LED_G               |
-| 42   | LED_B               |
-| 43   | Serial TX           |
-| 44   | Serial RX           |
-| 45   |                     |
-| 46   |                     |
+
